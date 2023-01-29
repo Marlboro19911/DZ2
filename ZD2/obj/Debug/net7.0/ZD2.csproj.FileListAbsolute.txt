@@ -1,0 +1,15 @@
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.csproj.AssemblyReference.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.AssemblyInfoInputs.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.AssemblyInfo.cs
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.csproj.CoreCompileInputs.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\bin\Debug\net7.0\ZD2.exe
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\bin\Debug\net7.0\ZD2.deps.json
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\bin\Debug\net7.0\ZD2.runtimeconfig.json
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\bin\Debug\net7.0\ZD2.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\bin\Debug\net7.0\ZD2.pdb
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\refint\ZD2.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.pdb
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ZD2.genruntimeconfig.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD2\obj\Debug\net7.0\ref\ZD2.dll

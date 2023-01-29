@@ -1,0 +1,15 @@
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\bin\Debug\net7.0\ZD1.exe
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\bin\Debug\net7.0\ZD1.deps.json
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\bin\Debug\net7.0\ZD1.runtimeconfig.json
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\bin\Debug\net7.0\ZD1.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\bin\Debug\net7.0\ZD1.pdb
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.csproj.AssemblyReference.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.AssemblyInfoInputs.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.AssemblyInfo.cs
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.csproj.CoreCompileInputs.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\refint\ZD1.dll
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.pdb
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ZD1.genruntimeconfig.cache
+C:\Users\Яков\Desktop\Git\C-charp\DZ2\ZD1\obj\Debug\net7.0\ref\ZD1.dll
